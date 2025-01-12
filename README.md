@@ -9,4 +9,6 @@ Có thể bỏ qua main Branches vì đây là các tệp dữ liệu để hu�
 
 Ở model Tag tôi có mô hình đã được huấn luyện với chỉ số đánh giá độ chính xác tới 96% và video thử nghiệm đánh giá Email trên môi trường Internet.
 
+https://github.com/HICKER-WH/PhanLoaiEmail_PhoBERT/releases/tag/Model
+
 Try with me <3
