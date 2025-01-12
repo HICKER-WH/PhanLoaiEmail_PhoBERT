@@ -7,7 +7,7 @@ PhanLoaiEmail_PhoBERT là một project tâm huyết sau nhiều cố gắng tì
 
 Main Branches có các tập dữ liệu, ảnh kết quả tính độ chính xác Accuracy và mã nguồn cho giao diện Streamlit
 
-Tôi có video thử nghiệm phân tích và đánh giá nội dung thư trên môi trường Internet theo url sau:
+Tôi có mô hình được huấn luyện với độ chính xác 96% và video thử nghiệm phân tích, đánh giá nội dung thư trên môi trường Internet theo url sau:
 
 https://github.com/HICKER-WH/PhanLoaiEmail_PhoBERT/releases/tag/Model
 
